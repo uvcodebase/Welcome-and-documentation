@@ -1,7 +1,7 @@
 ------------------------
-# UV Coders
+# UV Codebase
 -----------------------------------
-##Briefly - What is UV Coder ?
+##Briefly - What is UV Codebase ?
 
 It's a group gathering around the common purpose of coding (or programming), possibly related to a free software project. There is a focus on sharing tips and tricks, learning by doing, and contributing to the free software community.
 
