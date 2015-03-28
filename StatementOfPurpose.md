@@ -76,10 +76,13 @@ There are many possible purposes to this meeting. The main goal is to foster rel
 
 ### Who : Roles
 
-** Meeting Organizer **: The meeting Organizer will be responsible for scheduling a room, providing a programming problem, and be availble for light tech support. 
-** Sponsors **: When available, a corporate sponsor may provide food and beverages. Sponsors may also have a need that could be addressed by a free software solution, and they may fund this event to help them create a solution that they can use afterwards. However, this coding meeting will not substitute for real-world business development cycles, and may merely use a sponsor's topic as a interesting topic to work on.
-** one or many reporters ** Volunteers that take pictures, write blog posts, take videos, publish content, tweets, social network seeds, about the event. That role is usually chosen by people that don't feel confident for participating in hard core coding but still want to help making it fun and memorable. The visibility on the event has many advantages, for the participant but also for the community at large, as a demonstration of free software liveliness.
-** Participants ** the coders and makers, graphic designers, scripters, sysadmins, etc ... well, of course, for doing the real thing, those are most of the participants hopefully.
+**Meeting Organizer**: The meeting Organizer will be responsible for scheduling a room, providing a programming problem, and be availble for light tech support. 
+
+**Sponsors**: When available, a corporate sponsor may provide food and beverages. Sponsors may also have a need that could be addressed by a free software solution, and they may fund this event to help them create a solution that they can use afterwards. However, this coding meeting will not substitute for real-world business development cycles, and may merely use a sponsor's topic as a interesting topic to work on.
+
+**one or many reporters** Volunteers that take pictures, write blog posts, take videos, publish content, tweets, social network seeds, about the event. That role is usually chosen by people that don't feel confident for participating in hard core coding but still want to help making it fun and memorable. The visibility on the event has many advantages, for the participant but also for the community at large, as a demonstration of free software liveliness.
+
+**Participants** the coders and makers, graphic designers, scripters, sysadmins, etc ... well, of course, for doing the real thing, those are most of the participants hopefully.
 
 -------------------
 ## Guidelines
