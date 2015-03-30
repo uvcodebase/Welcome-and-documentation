@@ -49,10 +49,13 @@ At each meeting, the Organizer will provide a programming challenge question for
 
 Other meeting attenders can choose to work on a free software project. A few initial topics for projects are:
 
+* Favorite photos python tool
+* Recipe organizer in python / Meteor
+* Code a human-in-the-loop machine-learning gui framework in python
+* Code a Dynamical Orthogonality Library in python
 * Build a strategy game using Meteor (details to be discussed)
 * Make a task management website using Meteor
-* Code a Dynamical Orthogonality Library in python
-* Code a human-in-the-loop machine-learning gui framework in python
+
 
 ### How : a set of tools
 Each participant is encouraged to bring their own laptop, but you are welcome to share with a friend. No extra laptops will be provided. 
