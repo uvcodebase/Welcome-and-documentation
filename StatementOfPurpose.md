@@ -25,6 +25,8 @@ This is a set of guidelines to provide structure to meetings and help make sure 
 -------------------------
 ##Meeting Details
 
+**Specific Details**: See the [Wiki](https://github.com/uvcodebase/docs/wiki)
+
 ### When : 6pm - 8pm on a weeknight
 
 At least once a month, 6pm - 8pm on a weeknight. 
