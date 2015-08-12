@@ -1,5 +1,5 @@
 # Welcome
-If you are a learners who want a hands-on programming experience or an accomplished coders looking for a collaborative environment, you've come to the right place. The UVcodebase seeks to foster relationships, conversations, and coding within the community. We are currently trying to make this site more useful. Feel free to lend a hand!
+Whether you are a learner who wants a hands-on programming experience or an accomplished coder looking for a collaborative environment, you've come to the right place. The UVcodebase seeks to foster relationships, conversations, and coding within the community. We are currently trying to make this site more useful. Feel free to lend a hand!
 
 # Getting started
 Most of the generated documentation is present on the [Wiki](https://github.com/uvcodebase/docs/wiki) of this repository, and in general new documentation can be generated/edited there.  A reasonable place to start is here: https://github.com/uvcodebase/Welcome-and-documentation/wiki/Startup-Email. Though stay tuned, we'll have better step by step instructions soon.
