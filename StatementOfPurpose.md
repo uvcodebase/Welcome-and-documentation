@@ -41,14 +41,11 @@ One of the [Howe library](http://www.thehowe.org) meeting rooms. For the exact l
 
 Depending on the size of the group, there are multiple potential activities:
 
-* Solving this meeting's programming challenge
 * Helping newer programmers get started
 * Learning a new tool
 * Collaboration on a free software project
 
 The Meeting Organizer will normally be available to help people get set up with a programming environment, and field general questions.
-
-At each meeting, the Organizer will provide a programming challenge question for some participants to work on during the meeting, if they want. At the end of the meeting, a friendly competition for participants who want to submit their solutions will be held, and a challenge winner will be declared. 
 
 Other meeting attenders can choose to work on a project, individually or collaboratively. A few initial topics for free software projects are:
 
@@ -67,7 +64,7 @@ Each participant is encouraged to bring their own laptop, but you are welcome to
 
 **Version Control**: The group will have a github account with various projects.
 
-**Central NoteKeeping**: The github wiki will be used to keep track of topical discussions. The *Docs* project will also be used for living documents such as this *StatementOfPurpose.mkd*
+**Central NoteKeeping**: The github wiki will be used to keep track of topical discussions. The *Docs* project will also be used for living documents such as this *StatementOfPurpose.md*
 
 ### Why : The purpose
 There are many possible purposes to this meeting. The main goal is to foster relationships and conversations within the community around a common interest: "programming." Other purposes could be:
