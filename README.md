@@ -2,10 +2,10 @@
 Whether you are a learner who wants a hands-on programming experience or an accomplished coder looking for a collaborative environment, you've come to the right place. The UVcodebase seeks to foster relationships, conversations, and coding within the community. We are currently trying to make this site more useful. Feel free to lend a hand!
 
 # Getting started
-Most of the generated documentation is present on the [Wiki](https://github.com/uvcodebase/docs/wiki) of this repository, and in general new documentation can be generated/edited there.  A reasonable place to start is here: https://github.com/uvcodebase/Welcome-and-documentation/wiki/Startup-Email. Though stay tuned, we'll have better step by step instructions soon.
+Most of the generated documentation is present on the [Wiki](https://github.com/uvcodebase/docs/wiki) of this repository, and in general new documentation can be generated/edited there.  A reasonable place to start is picking something to work on! We have a few [suggestions](https://github.com/uvcodebase/Welcome-and-documentation/wiki/Suggested-Projects) if you don't have a goal that you want to work towards, and the shared project is also a good choice. 
 
 #Shared project
-Just want to dive in? Our current shared project is here: https://github.com/uvcodebase/RecipePlaylist
+Just want to dive in? Our current shared project is [here](https://github.com/uvcodebase/RecipePlaylist) with some of the setup described [here]([here](https://github.com/uvcodebase/Welcome-and-documentation/wiki/Startup-Email). The [Developer Page](https://github.com/uvcodebase/RecipePlaylist/wiki/Developer) may be a good place to start setting up and IDE and learning how to use `meteor`.
 
 #Demo link
 Our demos are fun: https://github.com/uvcodebase/demos 
